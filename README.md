@@ -1,5 +1,7 @@
 👋 have good luck everyday to you!
 
+<img src="https://raw.githubusercontent.com/tzerocode/tzerocode/main/static/good.jpg" />
+
 `^o^`
 
 a web FE developer
