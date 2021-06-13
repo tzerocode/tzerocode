@@ -1,16 +1,24 @@
-### Hi there 👋
+👋 have good luck everyday to you!
 
-<!--
-**tzerocode/tzerocode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+`^o^`
 
-Here are some ideas to get you started:
+a web FE developer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📝 Learning language && Framework
+
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/webpack/webpack.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/087f23463641d25ee971402fa26e3dfb2855edb9/topics/koa/koa.png"></code>
+
+  
+### 📮 Contact Me
+
+- [✉️ Email](mailto:bzerocode@126.com)
+- 😊 Wechat: **Bzerocode**
+
+### 😏 Other
+
+- [📌 My Blog](https://blog.bybenk.cn/)
