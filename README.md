@@ -28,5 +28,6 @@ a web FE developer
 ### 🛺 GitHub Analytics
 
 <div align="left">
-  <img height="180em"  src="https://github-readme-stats-732htefl1-ahwgs.vercel.app/api/top-langs/?username=tzerocode&layout=compact&langs_count=8"/>
+  <img height="180em"  src="https://github-readme-stats-732htefl1-ahwgs.vercel.app/api?username=ahwgs&show_icons=true&include_all_commits=true&count_private=true"/>
+  <img height="180em"  src="https://github-readme-stats-732htefl1-ahwgs.vercel.app/api/top-langs/?username=ahwgs&layout=compact&langs_count=8"/>
 </p>
