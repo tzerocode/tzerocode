@@ -27,7 +27,20 @@ a web FE developer
 
 ### 🛺 GitHub Analytics
 
-<div align="left">
-  <img height="180em"  src="https://github-readme-stats-732htefl1-ahwgs.vercel.app/api?username=tzerocode&show_icons=true&include_all_commits=true&count_private=true"/>
+<div align="center">
+    <a href="#">
+  <img src="https://github-readme-stats.vercel.app/api?username=tzerocode&hide=contribs,issues&show_icons=true&theme=radical" alt="Anurag's GitHub stats">
+</div>
+
+<br>
+    
+<div align="center">
+  <a href="#">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tzerocode&layout=donut&theme=radical" alt="Top Langs">
+  </a>
+</div>
+
+<!--<div align="left">
+   <img height="180em"  src="https://github-readme-stats-732htefl1-ahwgs.vercel.app/api?username=tzerocode&show_icons=true&include_all_commits=true&count_private=true"/> 
   <img height="180em"  src="https://github-readme-stats-732htefl1-ahwgs.vercel.app/api/top-langs/?username=tzerocode&layout=compact&langs_count=8"/>
-</p>
+</p>-->
