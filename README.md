@@ -39,9 +39,18 @@ a web FE developer
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tzerocode&layout=donut&theme=radical" alt="Top Langs">
   </a>
 </div>
+<h3 dir="auto">
+  <a id="user-content--activity-graph" class="anchor" aria-hidden="true" tabindex="-1" href="#-activity-graph">
+    <svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true">
+      <path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z">
+      </path>
+    </svg>
+  </a>
+  📈 Activity Graph:
+</h3>
 <div align="center">
    <a href="#">
-     <img src="https://camo.githubusercontent.com/0b4d6af1dc5b242b2b5a1bb1d262a3f6f6406e7ba694fe99031cc6bd083bbd25/68747470733a2f2f6769746875622d726561646d652d61637469766974792d67726170682e76657263656c2e6170702f67726170683f757365726e616d653d6c692d6a69612d6e616e267468656d653d72656163742d6461726b" alt="Ashutosh's github activity graph" data-canonical-src="https://github-readme-activity-graph.vercel.app/graph?username=tzerocode&amp;theme=react-dark" style="max-width: 100%;">
+     <img src="https://github-readme-activity-graph.vercel.app/graph?username=tzerocode&amp;theme=react-dark" alt="Ashutosh's github activity graph" data-canonical-src="https://github-readme-activity-graph.vercel.app/graph?username=tzerocode&amp;theme=react-dark" style="max-width: 100%;">
    </a>
 </div>
 
