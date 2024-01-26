@@ -39,6 +39,11 @@ a web FE developer
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tzerocode&layout=donut&theme=radical" alt="Top Langs">
   </a>
 </div>
+<div align="center">
+   <a href="#">
+     <img src="https://camo.githubusercontent.com/0b4d6af1dc5b242b2b5a1bb1d262a3f6f6406e7ba694fe99031cc6bd083bbd25/68747470733a2f2f6769746875622d726561646d652d61637469766974792d67726170682e76657263656c2e6170702f67726170683f757365726e616d653d6c692d6a69612d6e616e267468656d653d72656163742d6461726b" alt="Ashutosh's github activity graph" data-canonical-src="https://github-readme-activity-graph.vercel.app/graph?username=tzerocode&amp;theme=react-dark" style="max-width: 100%;">
+   </a>
+</div>
 
 <!--<div align="left">
    <img height="180em"  src="https://github-readme-stats-732htefl1-ahwgs.vercel.app/api?username=tzerocode&show_icons=true&include_all_commits=true&count_private=true"/> 
