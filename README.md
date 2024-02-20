@@ -25,15 +25,7 @@ a web FE developer
 
 - [📌 My Blog](https://blog.bybenk.cn/)
 
-### 🛺 GitHub Analytics
-
-<div align="center">
-    <a href="#">
-  <img src="https://github-readme-stats.vercel.app/api?username=tzerocode&hide=contribs,issues&show_icons=true&theme=radical" alt="Anurag's GitHub stats">
-</div>
-
-<br>
-    
+### 🛺 GitHub Analytics   
 <div align="center">
   <a href="#">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tzerocode&layout=donut&theme=radical" alt="Top Langs">
